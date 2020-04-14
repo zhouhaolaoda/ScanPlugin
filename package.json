@@ -1,0 +1,22 @@
+{
+  "name": "scanplugin",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scan"
+  ],
+  "author": "zhouhao",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhouhaolaoda/ScanPlugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/zhouhaolaoda/ScanPlugin/issues"
+  },
+  "homepage": "https://github.com/zhouhaolaoda/ScanPlugin#readme",
+  "description": ""
+}
